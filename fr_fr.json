@@ -36,8 +36,8 @@
   "lacImportFailed": "Impossible d'effectuer l'importation, veuillez vérifier le journal!",
   "sessionContinue": "Votre dernière session d'identification a été poursuivie il y a %sec% secondes.",
   "messageLogin": "Identifiez-vous avec /login <mot de passe>",
-  "messageRegister": "Enregistrez-vous avec /register <mot de passe>",
-  "messageRegister2": "Enregistrez-vous avec /register <mot de passe> <mot de passe à nouveau>",
+  "messageRegister": "Enregistrez-vous avec /register <mot de passe>", 
+  "messageRegister2": "Enregistrez-vous avec /register <mot de passe> <mot de passe à nouveau>", //this not work
   "errorRefreshProfile": "Votre compte a été modifié par un tiers, veuillez rejoindre!",
   "errorNotRegistered": "L'utilisateur n'est pas enregistré!",
   "errorMatchPassword": "Les mots de passe ne concordent pas, esssayez à nouveau.",
